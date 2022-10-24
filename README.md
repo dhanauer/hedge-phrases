@@ -1,6 +1,6 @@
 # hedge-phrases
 
-This repository contains 2 files:
+This repository contains 3 primary files:
 
 1. A paper presented at the 2012 American Medical Informatics Association (AMIA) Annual Symposium.
 
