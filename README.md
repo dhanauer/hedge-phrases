@@ -2,7 +2,7 @@
 
 This repository contains 3 primary files:
 
-1. A paper presented at the 2012 American Medical Informatics Association (AMIA) Annual Symposium.
+1. A paper presented at the 2012 American Medical Informatics Association (AMIA) Annual Symposium. Link to [paper onPubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3540426/)
 
 2. Slides from the AMIA presentation.
 
